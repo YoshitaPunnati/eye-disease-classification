@@ -50,29 +50,11 @@ The primary components of the project include:
 
 **Results**
 
-* Achieved approximately XX% accuracy on validation dataset
+
 * Visualizations include:
 
   * Training vs Validation loss/accuracy
   * Confusion matrix
   * Misclassified examples
 
-(You can update this section with your final results, charts, or performance metrics.)
 
-**Future Work**
-
-* Improve performance using transfer learning (e.g., ResNet50, EfficientNet)
-* Deploy as a web app using Flask or Streamlit
-* Integrate Grad-CAM for explainability
-
-**License**
-This project is licensed under the MIT License.
-
-**Author**
-Yoshita Punnati
-GitHub: [https://github.com/YoshitaPunnati](https://github.com/YoshitaPunnati)
-LinkedIn: \[Add your LinkedIn URL here]
-
----
-
-Let me know if you want this turned into a PDF or DOCX format too!
